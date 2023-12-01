@@ -2,6 +2,8 @@
 
 Service Level Agreement by Masscollabs Service for the community members and customers.
 
+* We plan a web/desktop/mobile application suite for monitoring and controlling the service level agreement service for our community members and customers.
+
 # License
 
 Service Level Agreement by Masscollabs Service for the community members and customers.
