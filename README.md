@@ -8,7 +8,7 @@ Service Level Agreement by Masscollabs Service for the community members and cus
 
 Service Level Agreement by Masscollabs Service for the community members and customers.
 
-Copyright (C) 2023 Masscollabs Services
+Copyright (C) 2017-2024 Masscollabs Services
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
