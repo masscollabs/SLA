@@ -4,6 +4,15 @@ Service Level Agreement by Masscollabs Service for the community members and cus
 
 * We plan a web/desktop/mobile application suite for monitoring and controlling the service level agreement service for our community members and customers.
 
+# Forges
+
+* https://codeberg.org/masscollabs/SLA
+* https://git.disroot.org/masscollabs/SLA
+* https://git.vern.cc/masscollabs/SLA
+* https://git.sr.ht/~mertgor/SLA
+* https://gitlab.com/masscollabs/sla
+* https://github.com/masscollabs/SLA
+
 # License
 
 Service Level Agreement by Masscollabs Service for the community members and customers.
