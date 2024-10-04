@@ -8,7 +8,21 @@ Service Level Agreement by Masscollabs Service for the community members and cus
 
 Service Level Agreement by Masscollabs Service for the community members and customers.
 
-Copyright (C) 2017-2024 Masscollabs Services
+Copyright (C) 2024-2025 QB Networks
+
+Copyright (C) 2017-2025 Masscollabs Services
+
+Copyright (C) 2017-2025 Procyberian and contributors
+
+Copyright (C) 2017-2025 Mass Collaboration Labs and contributors
+
+Copyright (C) 2017-2025 amassivus and contributors
+
+Copyright (C) 2024-2025 godigitalist and contributors
+
+Copyright (C) 2024-2025 bilsege and contributors
+
+Copyright (C) 2024-2025 Birleşik Dergi Yazarları
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
